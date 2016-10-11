@@ -1,0 +1,4 @@
+#Hier kommen alle Verzeichnisse und Dateien rein, die gebackupt werden sollen.
+# Dabei koennen entweder einzelne Dateien, oder ganze Ordner angegeben werden.
+/volume1/PrivaterShare/Fotos
+/volume1/PrivaterShare/Dokumente
