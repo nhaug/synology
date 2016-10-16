@@ -1,4 +1,4 @@
-#Hier kommen alle Verzeichnisse und Dateien rein, die gebackupt werden sollen.
-# Dabei koennen entweder einzelne Dateien, oder ganze Ordner angegeben werden.
-/volume1/PrivaterShare/Fotos
-/volume1/PrivaterShare/Dokumente
+## List with all important Dirs we want to backup to usb-drive
+# Per line only one directory
+# use the following syntax: /dir/i/would/like/to/backup
+
