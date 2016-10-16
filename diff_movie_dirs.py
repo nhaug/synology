@@ -16,16 +16,6 @@ parser.add_argument("-N", "--file_neu", dest="liste_neu", help="Liste mit neuen 
 
 args = parser.parse_args()
 
-#pfad_bestand = "/volume1/PrivaterShare/Filme/"
-#pfad_neu = sys.argv[1]
-
-#print(os.listdir(pfad_bestand))
-#print(os.listdir(pfad_neu))
-
-# Auf Kommandozeile absetzen:
-#find $pfad_bestand -maxdepth 1 -type d -exec basename {} \; | sort > $filme_bestand
-#find $pfad_neu -maxdepth 1 -type d -exec basename {} \; | sort > $filme_neu
-
 def getFolderSize(folder):
     total_size = 0
     for item in os.listdir(folder):
