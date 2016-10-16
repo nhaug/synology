@@ -1,4 +1,3 @@
 ## List with all important Dirs we want to backup to usb-drive
 # Per line only one directory
 # use the following syntax: /dir/i/would/like/to/backup
-
